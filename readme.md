@@ -160,10 +160,7 @@ Running these models on a standard **i5 CPU laptop** will result in slower respo
 
 ![Application Interface](NYX2.png)
 
-### Demo Video
 
-
-docs/demo.mp4
 ## Demo Video
 
 [Watch RAG Demo Video](rag-demo.mp4)
