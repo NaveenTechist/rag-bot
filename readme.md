@@ -1,5 +1,7 @@
 # NYX-AI – Document Intelligence Chatbot
 
+RAG Chatbot using Python (AI Project)
+
 NYX-AI is a **Retrieval-Augmented Generation (RAG)** chatbot that allows users to ask questions about a PDF document.  
 It extracts content from documents, stores embeddings in a vector database, and generates answers using a local Large Language Model.
 
