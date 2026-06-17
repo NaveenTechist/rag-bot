@@ -80,10 +80,8 @@ async def chat(req: QuestionRequest):
     try:
 
         retriever = app.state.vector_store.as_retriever(
-            search_type="similarity_score_threshold",
             search_kwargs={
                 "k":5,
-                "score_threshold":0.7
             }
 )
 
